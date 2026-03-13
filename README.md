@@ -11,6 +11,7 @@
 
 This project demonstrates a cloud security assessment of an AWS environment using Prowler.   
 The assessment was performed to identify security misconfigurations, monitoring gaps, and identity management weaknesses across cloud services in Amazon Web Services.   
+
 A detailed report containing the full analysis, findings, and remediation recommendations is included in this repository.
 
 
